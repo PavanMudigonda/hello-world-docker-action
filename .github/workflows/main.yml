@@ -30,4 +30,9 @@ jobs:
         run: echo Hello, world!
       - uses: ./
         with:
-          who-to-greet: 'Mona the Octocat'
+          who-to-greet: |
+            'Bahubali'
+            'BhallalaDev'
+            'Kattappa'
+            'Rani'
+            
