@@ -5,7 +5,6 @@ inputs:
     description: 'Who to greet'
     required: true
     default: 'World'
-    is-array: true
 outputs:
   time: # id of output
     description: 'The time we greeted you'
